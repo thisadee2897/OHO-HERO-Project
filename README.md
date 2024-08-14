@@ -7,7 +7,7 @@
 #### Fase1
 
 - Login [Design](./1-1Login/login_screen.md###Design) , [API](./1-1Login/login_screen.md###API)
-- Register
+- Register [Design](./1-2Register/register_screen.md###Design)
 - Edit Profile
 - Chang password
 - Dashboard
